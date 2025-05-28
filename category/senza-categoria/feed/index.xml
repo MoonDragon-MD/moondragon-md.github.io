@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Senza categoria &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/category/senza-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Aug 2020 10:14:26 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Senza categoria &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guida definitiva 2013 Hack del Kobo Glo</title>
+		<link>https://moondragon-md.github.io/guida-definitiva-2013-hack-del-kobo-glo/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2013 22:53:43 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[Senza categoria]]></category>
+		<category><![CDATA[AGGIORNARE]]></category>
+		<category><![CDATA[E-READER]]></category>
+		<category><![CDATA[EPUB]]></category>
+		<category><![CDATA[EREADER]]></category>
+		<category><![CDATA[HACK]]></category>
+		<category><![CDATA[IN-MONDADORI]]></category>
+		<category><![CDATA[KOBO]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=549</guid>
+
+					<description><![CDATA[Salve a tutti oggi finalmente son riuscito a scrivervi questa guida cercando di essere più completo e semplice possibile!! Per ogni trick ho creato un file quindi basta scaricarlo e poi seguire le istruzioni!!! 0_ aprire il kobo glo nuovo o dopo reset di fabbrica (hard-reset= premuto tasto luce più tasto avvio fin vedere luce [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

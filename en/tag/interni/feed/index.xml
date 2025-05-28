@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>interni &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/interni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Aug 2017 18:35:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>interni &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Creare effetto Proiettore cinema con Twilight Render V2</title>
+		<link>https://moondragon-md.github.io/en/creare-effetto-proiettore-cinema-con-twilight-render-v2/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 12:22:37 +0000</pubDate>
+				<category><![CDATA[Architettura]]></category>
+		<category><![CDATA[interni]]></category>
+		<category><![CDATA[luci]]></category>
+		<category><![CDATA[Render]]></category>
+		<category><![CDATA[Twilight Render]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=755</guid>
+
+					<description><![CDATA[Salve, siccome un nostro lettore ha fatto richiesta eccovi la guida per creare un effetto cinema (NB:proiezione di immagine statica in formato png con layer alpha attivo)! Prima di tutto prendete la vostra immagine e apritela con un editor immagini (io ho utilizzato gimp) togliete lo sfondo se volete dare un effetto più marcato e [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Twilight Render –  settings interior and exterior lights</title>
+		<link>https://moondragon-md.github.io/en/twilight-render-impostazioni-luci-interne-ed-esterne/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 05 Dec 2015 17:03:16 +0000</pubDate>
+				<category><![CDATA[Architettura]]></category>
+		<category><![CDATA[interni]]></category>
+		<category><![CDATA[luci]]></category>
+		<category><![CDATA[Render]]></category>
+		<category><![CDATA[Sketchup]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=727</guid>
+
+					<description><![CDATA[Hello I wanted to give you a quick trick to set the lights in the engine to render SketchUp: Twiligh render Once downloaded from the official website link , install it and you will find the start of a new sketckup toolbar, now you can start to explain: 1) First you create lights with 2) [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

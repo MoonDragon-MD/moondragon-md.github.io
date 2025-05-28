@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1959 &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/1959/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Wed, 27 Oct 2021 15:26:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>1959 &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Isetta Carro 1959</title>
+		<link>https://moondragon-md.github.io/en/mod-srs2012-isetta-carro-1959/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 27 Oct 2021 15:25:01 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[1959]]></category>
+		<category><![CDATA[Isetta]]></category>
+		<category><![CDATA[IsettaCarro]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[TrafficVehicle]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1630</guid>
+
+					<description><![CDATA[Hi everyone, this is the fall season of pumpkins and mushrooms. There are village festivals where pumpkins are on display and then at the end of the month is hallowen. So I thought of making a composition in the truck Isetta of the brand Iso (Milan, Italy, about 1957/59). The colors of the truck are [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

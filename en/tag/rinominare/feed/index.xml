@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rinominare &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/rinominare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:35:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>rinominare &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rename PDF based on the title tag data</title>
+		<link>https://moondragon-md.github.io/en/rinominare-pdf-in-base-ai-dati-tag-del-titolo/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 23:49:40 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[rinominare]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1030</guid>
+
+					<description><![CDATA[Hello, after several attempts I present a new script for Nautilus (file manager present in most linux distributions): allows you to rename all the PDF files, within the same folder, according to the internal tag of the title (for instance right click, property, document, title); very useful in various cases !!! first of all download [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

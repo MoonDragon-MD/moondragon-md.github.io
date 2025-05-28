@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>plugins &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Jul 2016 13:22:13 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>plugins &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Firefox 43 abilitare plugin disabilitati per firma non valida</title>
+		<link>https://moondragon-md.github.io/firefox-43-abilitare-plugin-disabilitati-per-firma-non-valida/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2015 12:28:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[componenti aggiuntivi]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=739</guid>
+
+					<description><![CDATA[Salve, con l&#8217;ultimo aggiornamento di firefox abbiamo notato che i componenti aggiuntivi non firmati non vengono attivati e non c&#8217;è un pulsante per abilitarli. Vi trovere con il plugin bloccato e la scritta: &#8220;nomeplugin&#8221; non è verificato per l&#8217;utilizzo in firefox. Procedere con cautela. Per ovviare a questo problema e continuare ad utilizzare i nostri [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

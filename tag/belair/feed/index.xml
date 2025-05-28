@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BelAir &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/belair/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Sun, 23 Aug 2020 21:17:07 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>BelAir &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Chevrolet Bel Air 1957</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-chevrolet-bel-air-1957/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 16:23:43 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[BelAir]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1385</guid>
+
+					<description><![CDATA[Ciao a tutti, ho fatto un porting di questa vettura dal gioco Farming Simulator 2011 per Ski Region Simulator 2012&#160; La Bel Air del 1955 pesa 1.568 kg ed è lunga 4,6 m. Fu chiamata &#8220;Hot One&#8221; nella campagna pubblicitaria di GM. Potete guardare il video in anteprima qui La trovate da scaricare su ModHoster [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/gm8936w0b47qnjj/chevy.mp4?dl=0" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

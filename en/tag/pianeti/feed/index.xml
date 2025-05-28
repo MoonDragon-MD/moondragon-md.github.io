@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PIANETI &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/pianeti/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Jul 2016 13:22:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>PIANETI &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vorticity in optical astronomy</title>
+		<link>https://moondragon-md.github.io/en/vorticita-ottiche-in-astronomia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 23 Oct 2012 22:21:18 +0000</pubDate>
+				<category><![CDATA[Atronomia]]></category>
+		<category><![CDATA[CIELO]]></category>
+		<category><![CDATA[PIANETI]]></category>
+		<category><![CDATA[STELLE]]></category>
+		<category><![CDATA[TELESCOPIO]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=332</guid>
+
+					<description><![CDATA[I fusilli di luce del dottor Fabrizio Tamburini Fabrizio Tamburini, precarious researcher of the Department of Astronomy at the University of Padua, made a sensational discovery that can change the way you look in astronomy, but that will have important implications in other fields, from medicine to Digital Terrestrial. Tamburini&#8217;s theory is based on the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What are quasars?</title>
+		<link>https://moondragon-md.github.io/en/info-quasar/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Thu, 26 Aug 2010 09:45:17 +0000</pubDate>
+				<category><![CDATA[Atronomia]]></category>
+		<category><![CDATA[CIELO]]></category>
+		<category><![CDATA[PIANETI]]></category>
+		<category><![CDATA[STELLE]]></category>
+		<category><![CDATA[TELESCOPIO]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=167</guid>
+
+					<description><![CDATA[Quasar Da Wikipedia, the free encyclopedia:  http://it.wikipedia.org/wiki/Quasar Un quasar (contracted of quasi-stellar radio source, almost stellar radio source) is an astronomical object that looks like a star in an optical telescope (ie a point source) and that shows a large red shift (redshift) del suo spettro. The general consensus is that this large redshift is [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

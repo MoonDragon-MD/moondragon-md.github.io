@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>componenti aggiuntivi &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/componenti-aggiuntivi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Jul 2016 13:22:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>componenti aggiuntivi &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Firefox 43 add-on plugins enable disabled for invalid signature</title>
+		<link>https://moondragon-md.github.io/en/firefox-43-abilitare-plugin-disabilitati-per-firma-non-valida/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2015 12:28:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[componenti aggiuntivi]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=739</guid>
+
+					<description><![CDATA[Hi, with the latest update of Firefox we noticed that the unsigned add-ins are not activated and there is a button to activate them. You are stuck with the plug-in written: &#8220;plugin name&#8221; is not verified for use in firefox. Proceed with caution. To overcome this problem and continue to use our old add-ons (seprate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

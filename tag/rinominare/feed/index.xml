@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rinominare &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/rinominare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Mar 2018 20:35:55 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>rinominare &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rinominare PDF in base ai dati tag del titolo</title>
+		<link>https://moondragon-md.github.io/rinominare-pdf-in-base-ai-dati-tag-del-titolo/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 23:49:40 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[rinominare]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1030</guid>
+
+					<description><![CDATA[Salve, dopo vari tentativi vi presento un nuovo script per Nautilus (file manager presente nella maggior parte delle distribuzioni linux): consente di rinominare tutti i file PDF , all&#8217;interno della stessa cartella, in base al tag interno del titolo (per intenderci clic destro, proprietà, documento, titolo) ; molto utile in vari casi !!! prima di [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

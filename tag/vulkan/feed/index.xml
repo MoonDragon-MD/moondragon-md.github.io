@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vulkan &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/vulkan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Nov 2020 22:05:34 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Vulkan &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pianeta del Tesoro: battaglia su Procyon</title>
+		<link>https://moondragon-md.github.io/pianeta-del-tesoro-battaglia-su-procyon/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 25 Nov 2020 11:50:01 +0000</pubDate>
+				<category><![CDATA[Giochi]]></category>
+		<category><![CDATA[Crossover]]></category>
+		<category><![CDATA[navi]]></category>
+		<category><![CDATA[PianetaDelTesoro]]></category>
+		<category><![CDATA[Procyon]]></category>
+		<category><![CDATA[spazio]]></category>
+		<category><![CDATA[Stevenson]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Vulkan]]></category>
+		<category><![CDATA[Wine]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1502</guid>
+
+					<description><![CDATA[Rispolverando i vecchi giochi per computer ho trovato questo bel gioco per chi è appassionato di navi a vela (galeoni, fregate) cannoni, abbordaggi e di spazio. Difatti è derivato dal film d&#8217;animazione della Disney il &#8220;Pianeta del Tesoro&#8221; che prende spunto dal romanzo &#8220;L&#8217;isola del tesoro&#8221; di Robert Louis Stevenson. Questo gioco del 2002 ha [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

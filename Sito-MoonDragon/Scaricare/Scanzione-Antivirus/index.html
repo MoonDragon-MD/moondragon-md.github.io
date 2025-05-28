@@ -1,0 +1,34 @@
+#! /bin/bash
+##    Creato da MoonDragon 
+##    Creato il 19 settembre 2012
+##    Sito ufficiale: http://www.moondragon.comule.com
+##    Mi trovate anche su http://forum.ubuntu-it.org
+
+# controllo se le dipendenze sono installate
+inst=`dpkg -l clamav-freshclam 2> /dev/null | tail -1 | cut -d " " -f1`
+if [ "$inst" = "ii" ]
+then
+  echo installato
+else
+  echo non installato
+xterm -e 'sudo apt-get install clamav-freshclam' | zenity --progress --pulsate --title="Controllo dipendenze" --text="Attendere il termine di installazione"
+fi
+# Aggiornamento e scanzione
+zenity --question --text="Prima di fare la scanzione vuoi aggiornare il database delle firme antivirali di ClamAV ?"
+case $? in
+-1)
+zenity --info --text="Si è verificato un errore";;
+0)
+zenity --info --text="<b>Aggiorno</b> poi scanziono";
+gksudo xterm freshclam ;
+for arg
+do
+ clamscan -i -r "$arg" | zenity --text-info
+done ;;
+1)
+zenity --info --text="<b>Proseguo</b> con la scanzione senza aggionare";
+for arg
+do
+ clamscan -i -r "$arg" | zenity --text-info
+done ;;
+esac

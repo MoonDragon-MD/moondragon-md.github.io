@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GOOGLE TRANSLATE &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/google-translate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Fri, 23 Jun 2017 10:08:21 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>GOOGLE TRANSLATE &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gablabel programma di traduzione per linux ubuntu</title>
+		<link>https://moondragon-md.github.io/gablabel-programma-di-traduzione-per-linux-ubuntu/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sun, 05 Feb 2012 10:42:47 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[DIZIONARIO]]></category>
+		<category><![CDATA[GOOGLE TRANSLATE]]></category>
+		<category><![CDATA[TRADUZIONE]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=393</guid>
+
+					<description><![CDATA[Salve oggi voglio proporvi un comodissimo programma di traduzione che sfrutta google translate.Si integragra nel pannello gnome/unity così da avercelo sempre a portata di mano. Se avete installato in sistema operativo a 32 bit scaricate questa versione gablabel-0.1.1 Poi installate semplicemente!!! Se avete installato in sistema operativo a 64 bit scaricate questa versione gablabel-0.1.1 e [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

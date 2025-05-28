@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Redmi &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/redmi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Tue, 09 Nov 2021 16:32:00 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Redmi &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu touch (ubport) Xiaomi Redmi Note 8</title>
+		<link>https://moondragon-md.github.io/ubuntu-touch-ubport-xiaomi-redmi-note-8/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 19:15:12 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[8]]></category>
+		<category><![CDATA[ginkgo]]></category>
+		<category><![CDATA[GSI]]></category>
+		<category><![CDATA[Note8]]></category>
+		<category><![CDATA[Redmi]]></category>
+		<category><![CDATA[SSH]]></category>
+		<category><![CDATA[touch]]></category>
+		<category><![CDATA[Ubports]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Xiaomi]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1638</guid>
+
+					<description><![CDATA[Ciao a tutti, son riuscito a far funzionare abbastanza bene Ubuntu touch sullo smartphones Xiaomi Redmi Note 8 (ginkgo). Prima di passare all&#8217;installazione ecco cosa non va: la telecamera frontale i programmi x11 non andranno in Libertine Anbox non funziona (apps android, ma va su note 7 quindi penso basti un altro kernel configurato per [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

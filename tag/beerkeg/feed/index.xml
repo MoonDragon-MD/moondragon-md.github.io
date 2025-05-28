@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beerKeg &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/beerkeg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Sep 2021 13:52:20 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>beerKeg &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Miglioramenti grafici e Fix autoguida</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-miglioramenti-grafici-e-fix-autoguida/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 13:52:11 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[beerKeg]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[FIX]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1611</guid>
+
+					<description><![CDATA[Courseplay ha come dipendenza il fusto di birra beerKeg di farm simulator 2011. Ho seplicemente installato fs2011 demo e salvato il file. La cartella dello zip va messa in []../SteamLibrary/steamapps/common/Ski Region Simulator/data/maps/models/objects Scarica da ModHoster Cercando sul forum ufficiale giant su come aumentare il &#8220;cerchio&#8221; di renderizzazione visuale, quindi vedere da lontano ombre e oggetti, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conversione &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/conversione/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Oct 2020 21:45:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>conversione &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Video conversion MB output size</title>
+		<link>https://moondragon-md.github.io/en/conversione-video-mb-output/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 21:24:24 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[conversione]]></category>
+		<category><![CDATA[Debian]]></category>
+		<category><![CDATA[dimensione]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[MB]]></category>
+		<category><![CDATA[mp4]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1485</guid>
+
+					<description><![CDATA[Hi, I found a very handy script to convert videos and choose the final weight in MB, useful for example to reduce and insert movies in social media. The original script is used from terminal, while I modified it and it integrates with the Nautilus file manager on Gnu/Linux distros based on Gnome The script [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

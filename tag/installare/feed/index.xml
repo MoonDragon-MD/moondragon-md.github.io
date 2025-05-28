@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Installare &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/installare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 May 2018 20:35:22 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Installare &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Installare Lightworks 15 su Ubuntu 17.10</title>
+		<link>https://moondragon-md.github.io/installare-lightworks-15-su-ubuntu-17-10/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Mon, 14 May 2018 20:15:29 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Editing]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[HACK]]></category>
+		<category><![CDATA[Installare]]></category>
+		<category><![CDATA[Lightworks]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[montaggio]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1068</guid>
+
+					<description><![CDATA[Salve, il programma di video editing Lightworks nel sito ufficiale ha due versioni: la 14 e la beta 15, ora su ubuntu 17.10 per la 14 ci sono dei trick da fare per farlo funzionare e trovate varie guide googolando, mentre invece la versione 15 è studiata per ubuntu 18.04 e 18.10. Provando da solo [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PULIZIA &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/pulizia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 23 Jun 2017 10:20:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>PULIZIA &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nautilus Script antivirus scan</title>
+		<link>https://moondragon-md.github.io/en/nautilusscriptscanzioneantivirus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 17:18:54 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[ANTIVIRUS]]></category>
+		<category><![CDATA[PULIZIA]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=413</guid>
+
+					<description><![CDATA[Hello everyone today I propose un&#8217;estenzione nautilus that simplifies scanzione antivirus on linux. You may wonder now what is a virus on linux: a) To scanzionare files before transferring them on Windows (prevention) b) For a hard-disk scanzionare infected (care) The script created by me iterfaccia has a graphic that will follow you step by [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

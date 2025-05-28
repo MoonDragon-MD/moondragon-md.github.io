@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SISTEMA OPERATIVO &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/sistema-operativo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 23 Jun 2017 10:20:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>SISTEMA OPERATIVO &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nautilus Script antivirus scan</title>
+		<link>https://moondragon-md.github.io/en/nautilusscriptscanzioneantivirus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 17:18:54 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[ANTIVIRUS]]></category>
+		<category><![CDATA[PULIZIA]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=413</guid>
+
+					<description><![CDATA[Hello everyone today I propose un&#8217;estenzione nautilus that simplifies scanzione antivirus on linux. You may wonder now what is a virus on linux: a) To scanzionare files before transferring them on Windows (prevention) b) For a hard-disk scanzionare infected (care) The script created by me iterfaccia has a graphic that will follow you step by [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FireTray minimize thunderbird in the gnome panel</title>
+		<link>https://moondragon-md.github.io/en/firetray-minimizzare-thunderbird-nel-pannello-gnome/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 23 Dec 2011 09:49:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=372</guid>
+
+					<description><![CDATA[# # Last modified November 16, 2012 # # Hello from time FireTray use to keep active in the bar thunderbird gnome so I signal the presence of new email! It looks like this: in the absence of email with email notification arrived I wrote this article because I realized that installing certain versions of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Compress pdf script with Nautilus</title>
+		<link>https://moondragon-md.github.io/en/comprimere-pdf-con-script-nautilus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2011 20:21:34 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=341</guid>
+
+					<description><![CDATA[After doing a search on the net I found that pdf file compression is quite dark! To make life easier I created a script Nautilus (tested on version 10.04 and 11.04 of ubuntu 64bit, but working with all of them) The script compresses the pdf looking for in the can to maintain good visual quality. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Create multiboot USB stick linux</title>
+		<link>https://moondragon-md.github.io/en/creare-pennetta-usb-linux-multiboot/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 16:52:22 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[DISTRO]]></category>
+		<category><![CDATA[LIVE]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=225</guid>
+
+					<description><![CDATA[nb: This procedure can only be performed by ubuntu distro download the iso of live linux distro that you like Install UNetbootin (sudo apt-get install unetbootin) Insert USB stick into your computer Install a memory stick with unetbootin iso (ubuntu to be installed last) the memory stick and create a folder with the name of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

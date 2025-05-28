@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Primavera &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/primavera/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Jan 2021 03:03:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Primavera &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Vespa 125 Primavera</title>
+		<link>https://moondragon-md.github.io/en/mod-srs2012-vespa-125-primavera/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 02:52:42 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[Primavera]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[Vespa]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1525</guid>
+
+					<description><![CDATA[Hello everyone, here is the last porting as a good omen for the new year: a Vespa Primavera (Piaggio) of the &#8217;70s. This porting from Farm Simulator 2013 has been a little bit complicated and i couldn&#8217;t keep all the original modall properties. I&#8217;ve also added to the driver the famous italian hat: the Coppola! [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/de5gsoqnej3d0o5/Vespa.mp4?dl=0" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sawmill &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/sawmill/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Sep 2021 14:09:00 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>sawmill &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Segheria trasportabile</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-segheria-trasportabile/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 14:08:53 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[sawmill]]></category>
+		<category><![CDATA[Segheria]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1613</guid>
+
+					<description><![CDATA[Una piccola segheria mobile! 3D originale di Kerry, 3D modificato, cavo industriale e mod posizionabile di MoonDragon generatore di himmi Non ha una funzione particolare, solo scopo ornamentale! V1.1 Gli errori PhysX sono stati corretti grazie a pb600Wpolar V1.2 Risolto il problema della rotazione durante il posizionamento Scaricabile da ModHoster Spero ti piaccia]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

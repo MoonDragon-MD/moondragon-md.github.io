@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>libva &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/libva/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Feb 2018 15:20:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>libva &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>View mp4 videos in  ubuntu 17.10 gnome+nvidia</title>
+		<link>https://moondragon-md.github.io/en/visualizzare-video-mp4-in-ubuntu-17-10-gnomenvidia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 02 Feb 2018 12:10:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[libva]]></category>
+		<category><![CDATA[mp4]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[Totem]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=985</guid>
+
+					<description><![CDATA[Hello everyone, after several searches on the web I did not find a working solution to see the video mp4 with H.264 encoding on Video (default program Video, internal name Totem). The MPEG-4 AAC sound was heard but the video was not displayed! In fact, if you open a terminal and write totem namevideo.mp4 we [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

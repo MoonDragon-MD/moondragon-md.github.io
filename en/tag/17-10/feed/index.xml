@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>17.10 &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/17-10/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Oct 2019 11:08:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>17.10 &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Install Lightworks 15 on Ubuntu 17.10</title>
+		<link>https://moondragon-md.github.io/en/installare-lightworks-15-su-ubuntu-17-10/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Mon, 14 May 2018 20:15:29 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Editing]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[HACK]]></category>
+		<category><![CDATA[Installare]]></category>
+		<category><![CDATA[Lightworks]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[montaggio]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1068</guid>
+
+					<description><![CDATA[Hi, the Lightworks video editing program on the official website has two versions: 14 and 15, now on ubuntu 17.10 for the 14 there are tricks to do to make it work and find various guides googolando, while instead the version 15 is designed for ubuntu 18.04 and 18.10. Trying alone I found this solution [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rename PDF based on the title tag data</title>
+		<link>https://moondragon-md.github.io/en/rinominare-pdf-in-base-ai-dati-tag-del-titolo/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 23:49:40 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[rinominare]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1030</guid>
+
+					<description><![CDATA[Hello, after several attempts I present a new script for Nautilus (file manager present in most linux distributions): allows you to rename all the PDF files, within the same folder, according to the internal tag of the title (for instance right click, property, document, title); very useful in various cases !!! first of all download [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu 17.10 will make the Gnome interface look like old Unity</title>
+		<link>https://moondragon-md.github.io/en/ubuntu-17-10-far-diventare-linterfaccia-gnome-simile-al-vecchio-unity/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 02 Feb 2018 18:05:36 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[desktop manager]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[Interfaccia]]></category>
+		<category><![CDATA[Tema]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=982</guid>
+
+					<description><![CDATA[Hello everyone, after a few days of testing I managed to make the new interface Gnome of Ubuntu 17.10 similar to the old call Unity it&#8217;s very simple we&#8217;ll use the extensions that the Gnome community offers: 1) install the bases for managing extensions: sudo apt-get install gnome-tweak-tool chrome-gnome-shell dconf-editor 2) Aprire firefox e installare [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>View mp4 videos in  ubuntu 17.10 gnome+nvidia</title>
+		<link>https://moondragon-md.github.io/en/visualizzare-video-mp4-in-ubuntu-17-10-gnomenvidia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 02 Feb 2018 12:10:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[libva]]></category>
+		<category><![CDATA[mp4]]></category>
+		<category><![CDATA[Nvidia]]></category>
+		<category><![CDATA[Totem]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=985</guid>
+
+					<description><![CDATA[Hello everyone, after several searches on the web I did not find a working solution to see the video mp4 with H.264 encoding on Video (default program Video, internal name Totem). The MPEG-4 AAC sound was heard but the video was not displayed! In fact, if you open a terminal and write totem namevideo.mp4 we [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fix Microsoft font problem on Ubuntu 17.10</title>
+		<link>https://moondragon-md.github.io/en/risolvere-problema-font-microsoft-su-ubuntu-17-10/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2018 14:33:42 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[caratteri]]></category>
+		<category><![CDATA[fonts]]></category>
+		<category><![CDATA[LibreOffice]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=976</guid>
+
+					<description><![CDATA[The problem jumps out as an unsuccessful update called ttf-mscorefonts-installer ie fonts (fonts) used by Microsoft, it is better to install them to have compatibility on World documents in Libre Office. Returning to the problem here is how to solve the problem on the fly without long tricks: Let&#8217;s open a terminal with ctrl + [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

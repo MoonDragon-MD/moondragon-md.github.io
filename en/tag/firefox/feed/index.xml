@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FIREFOX &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/firefox/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Jul 2017 15:43:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>FIREFOX &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guide to install and manage tor on ubuntu 4.16 without vidalia</title>
+		<link>https://moondragon-md.github.io/en/guida-per-installare-e-gestire-tor-su-ubuntu-16-04-senza-vidalia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2016 11:51:03 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[Gui]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Vidalia]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=801</guid>
+
+					<description><![CDATA[Hi, as I was accustomed to vidalia, I had to endeavor to better manage tor on the new version! But let&#8217;s take it easy, first of all we install tor, open the terminal with ctrl + t: sudo gedit /etc/apt/sources.list Now it will open a text editor, copy and paste the following line at the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firefox 43 add-on plugins enable disabled for invalid signature</title>
+		<link>https://moondragon-md.github.io/en/firefox-43-abilitare-plugin-disabilitati-per-firma-non-valida/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2015 12:28:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[componenti aggiuntivi]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[windows]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=739</guid>
+
+					<description><![CDATA[Hi, with the latest update of Firefox we noticed that the unsigned add-ins are not activated and there is a button to activate them. You are stuck with the plug-in written: &#8220;plugin name&#8221; is not verified for use in firefox. Proceed with caution. To overcome this problem and continue to use our old add-ons (seprate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Convert directly from a link in firefox PDF</title>
+		<link>https://moondragon-md.github.io/en/converti-direttamente-da-firefox-un-link-in-pdf/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2014 15:28:29 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[CONVERTIRE]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=566</guid>
+
+					<description><![CDATA[Hi today I&#8217;ll show you how covertire a page you are viewing in firefox pdf, unlike the virtual printers will have a true conversion, that we will find a pdf editable, with lots of opportunity to make a copy and paste of texts written in it. First you need to download my script from here:Download [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Manage two versions of Firefox each with its own configuration</title>
+		<link>https://moondragon-md.github.io/en/gestire-due-versioni-di-firefox-ognuna-con-la-propria-configurazione/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 15 Jan 2011 17:59:36 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=300</guid>
+
+					<description><![CDATA[Hi today I will explain how to start firefox with diversified and separate personal settings This could be useful when: 1) We would like to try a new version (pre-or beta) of firefox 2) You want to keep a clean configuration quick and keeping the other custom plugins and various INSTRUCTIONS : nb:If you want [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

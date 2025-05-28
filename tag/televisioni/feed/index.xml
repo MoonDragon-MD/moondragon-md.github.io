@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Televisioni &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/televisioni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jun 2022 17:51:27 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Televisioni &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Televisioni</title>
+		<link>https://moondragon-md.github.io/televisioni/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 18:05:57 +0000</pubDate>
+				<category><![CDATA[Apps Android]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Streaming]]></category>
+		<category><![CDATA[Televisioni]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1285</guid>
+
+					<description><![CDATA[Applicazione per vedere lo streaming di alcune televisioni italiane; la maggior parte dei canali son dalle pagine web ufficiali, quindi dall&#8217;estero non funzioneranno (salvo si usi una VPN con server italiano)! Se si dovesse veder male nel visualizzatore interno, sopratutto nei tablet, usare l&#8217;icona condividi per aprirli con il browser desiderato. Sono compresi svariati canali [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

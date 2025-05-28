@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UNITY &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/unity/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Oct 2019 11:08:11 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>UNITY &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu 17.10 far diventare l&#8217;interfaccia Gnome simile al vecchio Unity</title>
+		<link>https://moondragon-md.github.io/ubuntu-17-10-far-diventare-linterfaccia-gnome-simile-al-vecchio-unity/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 02 Feb 2018 18:05:36 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[desktop manager]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[Interfaccia]]></category>
+		<category><![CDATA[Tema]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=982</guid>
+
+					<description><![CDATA[Ciao a tutti, dopo alcuni giorni di prova son riuscito a rendere la nuova interfaccia Gnome di Ubuntu 17.10 simile alla vecchia chiamata Unity è&#8217; molto semplice useremo le estensioni che la comunità Gnome offre: 1) installare le basi per gestire le estensioni: sudo apt-get install gnome-tweak-tool chrome-gnome-shell dconf-editor 2) Aprire firefox e installare GNOME [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FireTray minimizzare thunderbird nel pannello gnome</title>
+		<link>https://moondragon-md.github.io/firetray-minimizzare-thunderbird-nel-pannello-gnome/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 23 Dec 2011 09:49:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=372</guid>
+
+					<description><![CDATA[## Ultima modifica 16 novembre 2012 ## Salve da tempo utilizzo FireTray per tenere nella barra gnome thunderbird attivo così che mi segnali la presenza di nuove mail!! Ecco come si presenta: in assenza di mail con notifica mail arrivata Ho scritto questo articolo perchè mi sono accorto che installando determinate versioni di FireTray su [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Comprimere pdf con script Nautilus</title>
+		<link>https://moondragon-md.github.io/comprimere-pdf-con-script-nautilus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2011 20:21:34 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=341</guid>
+
+					<description><![CDATA[Dopo aver fatto una ricerca in rete ho constatato che la compressione dei file pdf è abbastanza oscura!!! Per semplificarvi la vita ho creato uno script Nautilus (testato sulle versioni 10.04 e 11.04 di ubuntu 64bit,ma funzionante con tutte) Lo script  comprime il pdf cercando nel possibile di mantenere una buona qualità visiva. Per prima [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aggiungere link all&#8217;applet indicatore (busta) di gnome</title>
+		<link>https://moondragon-md.github.io/aggiungere-link-allapplet-indicatore-busta-di-gnome/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 17:11:13 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=231</guid>
+
+					<description><![CDATA[## Ultimo aggiornamento : 15 Gennaio 2011 ## Avete presente quell&#8217;icona a forma di busta da lettera a destra del pannello gnome di ubuntu?? ebbene è possibile aggiungere il link al menù a tendina per aprire svariati programmi ecco come si presenterebbe dopo aver aggiunto i vostri programmi preferiti: Per l&#8217;occasione ho creato uno script [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

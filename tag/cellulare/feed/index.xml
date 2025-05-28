@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cellulare &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/cellulare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Sep 2019 16:35:20 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Cellulare &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ubuntu telefonate bluetooth Android come vivavoce</title>
+		<link>https://moondragon-md.github.io/ubuntu-telefonate-bluetooth-android-come-vivavoce/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2019 15:56:28 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[18.04]]></category>
+		<category><![CDATA[18.10]]></category>
+		<category><![CDATA[19.04]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Auricolari]]></category>
+		<category><![CDATA[Bluetooth]]></category>
+		<category><![CDATA[Cellulare]]></category>
+		<category><![CDATA[Chiamare]]></category>
+		<category><![CDATA[cuffiette]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Telefono]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Vivavoce]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1236</guid>
+
+					<description><![CDATA[Salve a tutti, sono riuscito a sentire e fare delle chiamate dal cellulare collegato in BT (bluetooth) attraverso il computer con Ubuntu e con delle cuffiette con microfono collegate al pc. Diciamo come le moderne auto che han il vivavoce bluetooth, di fatto si possono fare chiamate senza cuffiette inserite. 0) Collegare e associare lo [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

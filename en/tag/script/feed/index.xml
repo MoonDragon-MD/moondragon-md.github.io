@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SCRIPT &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/script/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jun 2022 18:12:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>SCRIPT &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Convert avif images to png</title>
+		<link>https://moondragon-md.github.io/en/convertire-immagini-avif-in-png/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 03 May 2022 11:36:28 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[avif]]></category>
+		<category><![CDATA[CONVERTIRE]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[immagini]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[png]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1648</guid>
+
+					<description><![CDATA[&#160; I happened to want to save an image from a website with avif format (android 12 technology), but then not be able to view it with default image reader. So I created a Nautilus script to convert it to png &#160; The only dependency you need is Davif which you can download here: &#160; [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Video conversion MB output size</title>
+		<link>https://moondragon-md.github.io/en/conversione-video-mb-output/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2020 21:24:24 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[conversione]]></category>
+		<category><![CDATA[Debian]]></category>
+		<category><![CDATA[dimensione]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[MB]]></category>
+		<category><![CDATA[mp4]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1485</guid>
+
+					<description><![CDATA[Hi, I found a very handy script to convert videos and choose the final weight in MB, useful for example to reduce and insert movies in social media. The original script is used from terminal, while I modified it and it integrates with the Nautilus file manager on Gnu/Linux distros based on Gnome The script [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Convert HEIC iphone mac photos to JPG with Ubuntu</title>
+		<link>https://moondragon-md.github.io/en/convertire-foto-heic-iphone-mac-in-jpg-con-ubuntu/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 12 Oct 2019 17:43:13 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[CONVERTIRE]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[HEIC]]></category>
+		<category><![CDATA[immagine]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<category><![CDATA[JPG]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1255</guid>
+
+					<description><![CDATA[Hi, I ran into a friend of mine who has iphone with the problem of opening with Ubuntu his photos which however are in HEIC format. I found an easy solution: open a terminal and type in sudo apt-get install libheif-examples give enter and type in your password to install this dependency, After that create [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rename PDF based on the title tag data</title>
+		<link>https://moondragon-md.github.io/en/rinominare-pdf-in-base-ai-dati-tag-del-titolo/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 23:49:40 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.10]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[rinominare]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1030</guid>
+
+					<description><![CDATA[Hello, after several attempts I present a new script for Nautilus (file manager present in most linux distributions): allows you to rename all the PDF files, within the same folder, according to the internal tag of the title (for instance right click, property, document, title); very useful in various cases !!! first of all download [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Guide to install and manage tor on ubuntu 4.16 without vidalia</title>
+		<link>https://moondragon-md.github.io/en/guida-per-installare-e-gestire-tor-su-ubuntu-16-04-senza-vidalia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2016 11:51:03 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[Gui]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Vidalia]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=801</guid>
+
+					<description><![CDATA[Hi, as I was accustomed to vidalia, I had to endeavor to better manage tor on the new version! But let&#8217;s take it easy, first of all we install tor, open the terminal with ctrl + t: sudo gedit /etc/apt/sources.list Now it will open a text editor, copy and paste the following line at the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nautilus Script antivirus scan</title>
+		<link>https://moondragon-md.github.io/en/nautilusscriptscanzioneantivirus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 17:18:54 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[ANTIVIRUS]]></category>
+		<category><![CDATA[PULIZIA]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=413</guid>
+
+					<description><![CDATA[Hello everyone today I propose un&#8217;estenzione nautilus that simplifies scanzione antivirus on linux. You may wonder now what is a virus on linux: a) To scanzionare files before transferring them on Windows (prevention) b) For a hard-disk scanzionare infected (care) The script created by me iterfaccia has a graphic that will follow you step by [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FireTray minimize thunderbird in the gnome panel</title>
+		<link>https://moondragon-md.github.io/en/firetray-minimizzare-thunderbird-nel-pannello-gnome/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 23 Dec 2011 09:49:26 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=372</guid>
+
+					<description><![CDATA[# # Last modified November 16, 2012 # # Hello from time FireTray use to keep active in the bar thunderbird gnome so I signal the presence of new email! It looks like this: in the absence of email with email notification arrived I wrote this article because I realized that installing certain versions of [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Compress pdf script with Nautilus</title>
+		<link>https://moondragon-md.github.io/en/comprimere-pdf-con-script-nautilus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2011 20:21:34 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[PDF]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=341</guid>
+
+					<description><![CDATA[After doing a search on the net I found that pdf file compression is quite dark! To make life easier I created a script Nautilus (tested on version 10.04 and 11.04 of ubuntu 64bit, but working with all of them) The script compresses the pdf looking for in the can to maintain good visual quality. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Add links to the applet indicator (envelope) of gnome</title>
+		<link>https://moondragon-md.github.io/en/aggiungere-link-allapplet-indicatore-busta-di-gnome/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 27 Nov 2010 17:11:13 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[UNITY]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=231</guid>
+
+					<description><![CDATA[# # Last update: January 15, 2011 # # You know those icon Envelope right of the panel gnome ubuntu? Well you can add the link to the drop-down menu to open several programs here&#8217;s how you would have after adding your favorite programs: For the occasion, I created a script for the most popular [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

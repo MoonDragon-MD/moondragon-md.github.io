@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alouette &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/alouette/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 23 Aug 2020 21:44:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Alouette &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Elicottero AlouetteII</title>
+		<link>https://moondragon-md.github.io/en/mod-srs2012-elicottero-alouetteii/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2020 11:10:17 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[Alouette]]></category>
+		<category><![CDATA[elicottero]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[SkiRegionSimulator]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1362</guid>
+
+					<description><![CDATA[Hi everyone, I made a porting of this aircraft from the game Farming Simulator 2013 for Ski Region Simulator 2012 In the help menu you will find three languages (Italian,English and German) The Alouette II is a popular helicopter of the 60s, designed in France, used internationally often for military purposes. Video preview here: https://www.dropbox.com/s/ij5k9d2x4an65tv/Elicottero-final.mp4 [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/ij5k9d2x4an65tv/Elicottero-final.mp4" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

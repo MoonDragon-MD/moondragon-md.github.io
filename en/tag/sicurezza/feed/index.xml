@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SICUREZZA &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/sicurezza/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Jul 2017 15:43:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>SICUREZZA &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guide to install and manage tor on ubuntu 4.16 without vidalia</title>
+		<link>https://moondragon-md.github.io/en/guida-per-installare-e-gestire-tor-su-ubuntu-16-04-senza-vidalia/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2016 11:51:03 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[add-on]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[Gui]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<category><![CDATA[Vidalia]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=801</guid>
+
+					<description><![CDATA[Hi, as I was accustomed to vidalia, I had to endeavor to better manage tor on the new version! But let&#8217;s take it easy, first of all we install tor, open the terminal with ctrl + t: sudo gedit /etc/apt/sources.list Now it will open a text editor, copy and paste the following line at the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nautilus Script antivirus scan</title>
+		<link>https://moondragon-md.github.io/en/nautilusscriptscanzioneantivirus/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 17:18:54 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[ANTIVIRUS]]></category>
+		<category><![CDATA[PULIZIA]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[SISTEMA OPERATIVO]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=413</guid>
+
+					<description><![CDATA[Hello everyone today I propose un&#8217;estenzione nautilus that simplifies scanzione antivirus on linux. You may wonder now what is a virus on linux: a) To scanzionare files before transferring them on Windows (prevention) b) For a hard-disk scanzionare infected (care) The script created by me iterfaccia has a graphic that will follow you step by [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Manage two versions of Firefox each with its own configuration</title>
+		<link>https://moondragon-md.github.io/en/gestire-due-versioni-di-firefox-ognuna-con-la-propria-configurazione/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 15 Jan 2011 17:59:36 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[FIREFOX]]></category>
+		<category><![CDATA[SICUREZZA]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=300</guid>
+
+					<description><![CDATA[Hi today I will explain how to start firefox with diversified and separate personal settings This could be useful when: 1) We would like to try a new version (pre-or beta) of firefox 2) You want to keep a clean configuration quick and keeping the other custom plugins and various INSTRUCTIONS : nb:If you want [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

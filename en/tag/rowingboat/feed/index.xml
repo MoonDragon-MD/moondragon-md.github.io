@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rowingboat &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/rowingboat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 Nov 2022 19:43:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>rowingboat &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Map Samersberg V3</title>
+		<link>https://moondragon-md.github.io/en/mod-srs2012-mappa-samersberg-v3/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2022 12:45:22 +0000</pubDate>
+				<category><![CDATA[Architettura]]></category>
+		<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[aiuola]]></category>
+		<category><![CDATA[appleorchard]]></category>
+		<category><![CDATA[aquila]]></category>
+		<category><![CDATA[armatura]]></category>
+		<category><![CDATA[barca]]></category>
+		<category><![CDATA[barchetta]]></category>
+		<category><![CDATA[boat]]></category>
+		<category><![CDATA[bridge]]></category>
+		<category><![CDATA[cannon]]></category>
+		<category><![CDATA[cannone]]></category>
+		<category><![CDATA[castello]]></category>
+		<category><![CDATA[castle]]></category>
+		<category><![CDATA[chiesetta]]></category>
+		<category><![CDATA[church]]></category>
+		<category><![CDATA[cider]]></category>
+		<category><![CDATA[debarker]]></category>
+		<category><![CDATA[eagle]]></category>
+		<category><![CDATA[elicotteri]]></category>
+		<category><![CDATA[fish]]></category>
+		<category><![CDATA[flowerbed]]></category>
+		<category><![CDATA[fontana]]></category>
+		<category><![CDATA[fontanile]]></category>
+		<category><![CDATA[fountain]]></category>
+		<category><![CDATA[garage]]></category>
+		<category><![CDATA[GattoDelleNevi]]></category>
+		<category><![CDATA[ghiaccio]]></category>
+		<category><![CDATA[helicopters]]></category>
+		<category><![CDATA[ice]]></category>
+		<category><![CDATA[Imbarcadero]]></category>
+		<category><![CDATA[jetty]]></category>
+		<category><![CDATA[lago]]></category>
+		<category><![CDATA[MapDoorTrigger]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[meleto]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[montagna]]></category>
+		<category><![CDATA[MoonDragon]]></category>
+		<category><![CDATA[pb600Wpolar]]></category>
+		<category><![CDATA[PDA]]></category>
+		<category><![CDATA[pellets]]></category>
+		<category><![CDATA[pesci]]></category>
+		<category><![CDATA[piste]]></category>
+		<category><![CDATA[ponte]]></category>
+		<category><![CDATA[pressa]]></category>
+		<category><![CDATA[rowingboat]]></category>
+		<category><![CDATA[Samersberg]]></category>
+		<category><![CDATA[sci]]></category>
+		<category><![CDATA[scortecciatore]]></category>
+		<category><![CDATA[sidro]]></category>
+		<category><![CDATA[snowcat]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[stove]]></category>
+		<category><![CDATA[stufa]]></category>
+		<category><![CDATA[tram]]></category>
+		<category><![CDATA[Vaporetto]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1653</guid>
+
+					<description><![CDATA[&#160; Hello everyone, today I want to tell you about the great work that went into modifying the 3D Samersberg map for the &#8220;Ski Region Simulator 2012&#8221; video game. Since I really enjoyed the Samersberg map, which has now reached version 2 from creator pb600Wpolar, I decided to write to him because I had some [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neve &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/neve/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Dec 2024 15:15:56 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>neve &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[SRS-2012] Pacchetto cannone da neve cingolato</title>
+		<link>https://moondragon-md.github.io/srs-2012-tracked-snow-cannon-pack/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sun, 08 Oct 2023 11:15:28 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[cannone]]></category>
+		<category><![CDATA[cingolato]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[neve]]></category>
+		<category><![CDATA[Pack]]></category>
+		<category><![CDATA[SnowCannon]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[Tracked]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1687</guid>
+
+					<description><![CDATA[Salve a tutti, in vista della preparazione invernale delle piste, vi presento il pacchetto di cannoni da neve cingolati &#8220;Tracked Snow Cannon&#8221;: Sono basati sulla mod originale Giants Lizard 80, su modhoster troverete solo la skin di un altro modder che andrà a sostituire i file originali, quindi mi sono detto: &#8220;è ora di fare [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>[MOD-SRS2012] Landini Vision 105 pack</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-landini-vision-105-pack/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sun, 28 May 2023 21:47:33 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[4x4]]></category>
+		<category><![CDATA[blade]]></category>
+		<category><![CDATA[catene]]></category>
+		<category><![CDATA[CB]]></category>
+		<category><![CDATA[lama]]></category>
+		<category><![CDATA[Landini]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[neve]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[salt]]></category>
+		<category><![CDATA[spandifertilizzante]]></category>
+		<category><![CDATA[spargisale]]></category>
+		<category><![CDATA[spreader]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[Trattore]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1685</guid>
+
+					<description><![CDATA[Salve a tutti, da questo inverno ho iniziato a lavorare su questo pacchetto di mod. Nella mia zona quando nevica gira sempre questo trattore con una vecchia lama rovinata e dietro aggancato uno spandifertilizzante usato come spargi sale! Così ho deciso di portarlo ne gioco. Mi sono basato su mod pre-esistenti, poi ho modificato quasi [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

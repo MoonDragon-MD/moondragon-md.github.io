@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programmi &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/en/tag/programmi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/en</link>
+	<description></description>
+	<lastBuildDate>Wed, 30 Aug 2017 15:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>Programmi &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Install Adobe AIR in Ubuntu 17.04 at 64 bit</title>
+		<link>https://moondragon-md.github.io/en/installare-adobe-air-in-ubuntu-17-04-a-64-bit/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 30 Aug 2017 15:33:47 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[17.04]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[adobe air]]></category>
+		<category><![CDATA[AIR]]></category>
+		<category><![CDATA[Programmi]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=906</guid>
+
+					<description><![CDATA[Since I needed a program made in AIR, I had to work to find the way to install it on version 17.04 amd64. First of all, you will need the installable dependencies by opening a terminal (ctrl + t) and copying: sudo apt-get install libgtk2.0-0:i386 libstdc++6:i386 libxml2:i386 libxslt1.1:i386 libcanberra-gtk-module:i386 gtk2-engines-murrine:i386 libqt4-qt3support:i386 libgnome-keyring0:i386 libnss-mdns:i386 libnss3:i386 libxaw7 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

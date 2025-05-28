@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>immagine &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/immagine/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jun 2022 18:09:58 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>immagine &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Convertire foto HEIC iphone mac in JPG con Ubuntu</title>
+		<link>https://moondragon-md.github.io/convertire-foto-heic-iphone-mac-in-jpg-con-ubuntu/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Sat, 12 Oct 2019 17:43:13 +0000</pubDate>
+				<category><![CDATA[Informatica]]></category>
+		<category><![CDATA[CONVERTIRE]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[GNOME]]></category>
+		<category><![CDATA[HEIC]]></category>
+		<category><![CDATA[immagine]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<category><![CDATA[JPG]]></category>
+		<category><![CDATA[NAUTILUS]]></category>
+		<category><![CDATA[SCRIPT]]></category>
+		<category><![CDATA[UBUNTU]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1255</guid>
+
+					<description><![CDATA[Salve, mi sono imbattuto in un mio amico che ha l&#8217;iphone con il problema di aprire con Ubuntu le sue foto che però son in formato HEIC. Ho trovato una facile soluzione: aprire un terminale e scriverci sudo apt-get install libheif-examples date invio e digitate la vostra password per installare questa dipendenza, Dopodichè create un [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

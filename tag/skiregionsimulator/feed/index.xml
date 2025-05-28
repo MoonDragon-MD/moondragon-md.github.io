@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SkiRegionSimulator &#8211; MoonDragon</title>
+	<atom:link href="https://moondragon-md.github.io/tag/skiregionsimulator/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Apr 2021 13:25:47 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://moondragon-md.github.io/wp-content/uploads/2020/08/cropped-logo1-32x32.png</url>
+	<title>SkiRegionSimulator &#8211; MoonDragon</title>
+	<link>https://moondragon-md.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[MOD-SRS2012] Terna Ford 555</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-terna-ford-555/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 13:07:05 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[escavatore]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[ruspa]]></category>
+		<category><![CDATA[SkiRegionSimulator]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<category><![CDATA[terna]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1519</guid>
+
+					<description><![CDATA[Salve, ho fatto un altro porting per Ski region simulator 2012, il JCB 3CX (Ford 555) è una terna con braccia pneumatiche entrambe funzionanti, dove puoi agganciarci la pala che vuoi. La &#8220;scavatrice&#8221; ha le seguenti caratteristiche: Braccio escavatore posteriore: &#8211; trasla con (z-x) &#8211; muove con tastierino numerico (7-9),(4-6) Braccio caricatore anteriore: muove con [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>[MOD-SRS2012] Maserati Quattroporte</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-maserati-quattroporte/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2020 13:20:46 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[Quattroporte]]></category>
+		<category><![CDATA[SkiRegionSimulator]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1427</guid>
+
+					<description><![CDATA[Salve a tutti, ho creato questa mod auto: è una Maserati Quattroporte la versione del 2005, ho aggiunto delle modifiche alla carrozzeria ispirate alle versioni CDC e Bison. I suoni sono reali e presi dalla versione Quattroporte 2005 con motore sovralimentato. Siccome è la mia prima mod da zero troverete qualche problema nelle texture, non [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/ac3wlvq83bu9e7i/Maserati.mp4?dl=0" length="0" type="video/mp4" />
+<enclosure url="https://www.dropbox.com/s/ac3wlvq83bu9e7i/MaseratiV1.mp4?dl=0" length="0" type="video/mp4" />
+<enclosure url="https://www.dropbox.com/s/bcpunk99fuq3hdo/MaseratiQuattroporte2005V2.mp4?dl=0" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>[MOD-SRS2012] Chevrolet Camaro 2014</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-chevrolet-camaro-2014/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 16:29:36 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[SkiRegionSimulator]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1389</guid>
+
+					<description><![CDATA[Salve a tutti, ho fatto un porting di quest&#8217;auto dal gioco Farming Simulator per&#160; Ski Region Simulator 2012&#160; Questa Chevrolet è di quinta generazione! Impersona anche il robot Bumblebee nei cartoni animati e nel film Transformers. Potete guardare il video in anteprima qui La trovate da scaricare su ModHoster Spero vi piaccia, buon gioco!]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/b8eavknwtowojkr/Camaro2014.mp4?dl=0" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>[MOD-SRS2012] Elicottero AlouetteII</title>
+		<link>https://moondragon-md.github.io/mod-srs2012-elicottero-alouetteii/</link>
+		
+		<dc:creator><![CDATA[MD]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2020 11:10:17 +0000</pubDate>
+				<category><![CDATA[MOD SRS2012]]></category>
+		<category><![CDATA[Alouette]]></category>
+		<category><![CDATA[elicottero]]></category>
+		<category><![CDATA[MOD]]></category>
+		<category><![CDATA[SkiRegionSimulator]]></category>
+		<category><![CDATA[srs2012]]></category>
+		<guid isPermaLink="false">https://moondragon-md.github.io/?p=1362</guid>
+
+					<description><![CDATA[Salve a tutti, ho fatto un porting di questo velivolo dal gioco Farming Simulator 2013 per Ski Region Simulator 2012 Nel menù help troverete tre lingue (italiano,inglese e tedesco) L&#8217;Alouette II è un elicottero popolare degli anni &#8217;60, progettato in Francia, usato a livello internazionale spesso per scopi militari. Anteprima video qua: https://www.dropbox.com/s/ij5k9d2x4an65tv/Elicottero-final.mp4 Puoi scaricarlo [&#8230;]]]></description>
+		
+		
+		<enclosure url="https://www.dropbox.com/s/ij5k9d2x4an65tv/Elicottero-final.mp4" length="0" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
