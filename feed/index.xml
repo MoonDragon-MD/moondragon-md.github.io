@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MoonDragon</title>
-	<atom:link href="https://moondragon-md.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://moondragon-md.github.io</link>
+	<atom:link href="https://moondragon-md.github.io/feed/feed.rss" rel="self" type="application/rss+xml" />
+	<link>https://moondragon-md.github.io/feed/feed.rss</link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Dec 2024 15:15:56 +0000</lastBuildDate>
 	<language>it-IT</language>
