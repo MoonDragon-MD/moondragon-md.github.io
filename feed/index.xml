@@ -9,6 +9,9 @@
 
 <channel>
 	<title>MoonDragon</title>
+<div>
+<a href="https://moondragon-md.github.io/feed/feed.rss">Feed "feed.rss" for readers</a>
+<div>
 	<atom:link href="https://moondragon-md.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://moondragon-md.github.io</link>
 	<description></description>
