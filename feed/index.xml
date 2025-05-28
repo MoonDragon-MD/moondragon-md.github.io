@@ -1,3 +1,6 @@
+<div>
+<a href="https://moondragon-md.github.io/feed/feed.rss">Feed "feed.rss" for readers</a>
+<div>
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -9,9 +12,6 @@
 
 <channel>
 	<title>MoonDragon</title>
-<div>
-<a href="https://moondragon-md.github.io/feed/feed.rss">Feed "feed.rss" for readers</a>
-<div>
 	<atom:link href="https://moondragon-md.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://moondragon-md.github.io</link>
 	<description></description>
