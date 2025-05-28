@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="true"
+	galleryTitle="Rovigno d'Istria"
+	showExpandButton="true"
+	useFullscreenExpand="true"
+	showOpenButton="false"
+	showThumbsButton="true"
+
+>
+  <image imageURL="images/1panoramacitta_.jpg"
+	thumbURL="thumbs/1panoramacitta_.jpg"
+	linkURL="images/1panoramacitta_.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/1panoramacitta_.png">
+    <title><![CDATA[1panoramacitta_]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2panorama.jpg"
+	thumbURL="thumbs/2panorama.jpg"
+	linkURL="images/2panorama.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/2panorama.png">
+    <title><![CDATA[2panorama]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3citta_.jpg"
+	thumbURL="thumbs/3citta_.jpg"
+	linkURL="images/3citta_.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/3citta_.png">
+    <title><![CDATA[3citta_]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4chiesa.jpg"
+	thumbURL="thumbs/4chiesa.jpg"
+	linkURL="images/4chiesa.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/4chiesa.png">
+    <title><![CDATA[4chiesa]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5scorcio.jpg"
+	thumbURL="thumbs/5scorcio.jpg"
+	linkURL="images/5scorcio.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/5scorcio.jpg">
+    <title><![CDATA[5scorcio]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6scogliera.jpg"
+	thumbURL="thumbs/6scogliera.jpg"
+	linkURL="images/6scogliera.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/6scogliera.png">
+    <title><![CDATA[6scogliera]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7scogliera1.jpg"
+	thumbURL="thumbs/7scogliera1.jpg"
+	linkURL="images/7scogliera1.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/7scogliera1.png">
+    <title><![CDATA[7scogliera1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8piazzaporto.jpg"
+	thumbURL="thumbs/8piazzaporto.jpg"
+	linkURL="images/8piazzaporto.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/8piazzaporto.jpg">
+    <title><![CDATA[8piazzaporto]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9porto.jpg"
+	thumbURL="thumbs/9porto.jpg"
+	linkURL="images/9porto.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/marco/miosito/Rovigno-HTML5/9porto.png">
+    <title><![CDATA[9porto]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
