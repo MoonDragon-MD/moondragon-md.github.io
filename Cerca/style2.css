@@ -1,0 +1,38 @@
+/* Stile generale per la barra di ricerca */
+.sidebar-box-blank {
+    position: relative; 
+    width: 225px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#sidebar #searchform{margin:0;padding:0 20px 20px 0;width:185px;text-align:center;}
+#sidebar #searchform #s{width:155px;}
+#sidebar #sidebar-search{margin:10px auto;width:207px;}
+#sidebar #sidebar-search .search-input{width:176px;height:17px;font:bold 13px Georgia, Verdana;float:left;background:url("images/search.jpg") no-repeat;border:none;padding:4px 15px;}
+#sidebar #sidebar-search .search-button{width:0;height:17px;float:right;display:none;}
+input.search-input {width:176px;height:17px;font:bold 13px Georgia, Verdana;float:left;background:url("images/search.jpg") no-repeat;border:none;padding:4px 15px;}
+.suggestions-list {
+    display: none;
+    list-style: none;
+    padding-top: 0;
+    margin: 0;
+    position: absolute;
+    top: 55px; /* Spostiamo la lista di 55px verso il basso */
+    left: 0; /* Aggiungi left per gestire la posizione orizzontale */
+    background-color: #cea668;
+    border: 2px solid #ddd;
+    width: 400px;
+    max-height: 400px;
+    overflow-y: auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+.suggestions-list li {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.suggestions-list li:hover {
+    background-color: #f0f0f0;
+}
+/* FINE - Stile generale per la barra di ricerca */
