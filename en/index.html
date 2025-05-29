@@ -110,9 +110,8 @@ function grande(){document.body.style.fontSize="16px";}
 		<div id="sidebar">
 		
 			<div class="sidebar-box-blank">Search/Cerca Nel Sito: 
-				<form id="sidebar-search" method="get" action="https://moondragon-md.github.io">
-					<input type="text" name="s" id="s" class="search-input" size="15">
-					<input type="submit" value="" class="search-button">
+				<input type="text" id="searchInput" class="search-input" placeholder="Cerca...">
+					<ul id="suggestions" class="suggestions-list"></ul> <!-- Lista dei suggerimenti -->
 					<div class="clear"></div>
 				</form>
 			</div>
@@ -241,7 +240,7 @@ transition: 1s ease opacity;
 
 </div></div></div>
 <!-- /Page -->
-
+<script src="https://moondragon-md.github.io/Cerca/cerca.js"></script>
 
 </body>
 
