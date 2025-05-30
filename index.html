@@ -62,7 +62,6 @@ function grande(){document.body.style.fontSize="16px";}
 
 </script> 
 
-    <link rel="stylesheet" href="Cerca/stile2.css">
 </head>
 
 <body>
@@ -109,9 +108,10 @@ function grande(){document.body.style.fontSize="16px";}
 		<!-- Sidebar -->
 		<div id="sidebar">
 		
-			<div class="sidebar-box-blank">Search/Cerca Nel Sito: 
-				<input type="text" id="searchInput" class="search-input" placeholder="Cerca...">
+			<div class="sidebar-box-blank">Cerca Nel Sito: 
+				<form><input type="text" id="searchInput" class="search-input" placeholder="Search...">
 					<ul id="suggestions" class="suggestions-list"></ul> <!-- Lista dei suggerimenti -->
+					
 					<div class="clear"></div>
 				</form>
 			</div>
@@ -238,8 +238,8 @@ transition: 1s ease opacity;
 	<!-- Footer -->
 
 </div></div></div>
-<!-- /Page -->
-<script src="/Cerca/cerca.js"></script>
+<!-- /Page --> <script defer src="Cerca/cerca.js"></script>
+
 
 </body>
 

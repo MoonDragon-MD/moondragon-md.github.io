@@ -71,7 +71,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -118,10 +117,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -273,7 +272,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -349,7 +348,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -396,10 +394,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -524,7 +522,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -600,7 +598,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -647,10 +644,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -791,7 +788,7 @@ Link Utili&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -867,7 +864,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -914,10 +910,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -1065,7 +1061,7 @@ Link Utili&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -1140,7 +1136,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -1187,10 +1182,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -1332,7 +1327,7 @@ app originale &lt;a href=&quot;http://www.mjxrc.net/downshow/bugs-go.html&quot;&
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -1407,7 +1402,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -1454,10 +1448,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -1615,7 +1609,7 @@ Al prossimo trick 😉&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -1690,7 +1684,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -1737,10 +1730,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -1912,7 +1905,7 @@ Qui potete vedere un anteprima video:&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -1987,7 +1980,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -2034,10 +2026,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -2184,7 +2176,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -2259,7 +2251,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -2306,10 +2297,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -2495,7 +2486,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -2570,7 +2561,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -2617,10 +2607,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -2761,7 +2751,7 @@ Questo sistema è molto utile e oltre a poter copiare il testo dai PDF creati il
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -2836,7 +2826,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -2883,10 +2872,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -3038,7 +3027,7 @@ Salve, mi sono imbattuto in un mio amico che ha l&amp;#8217;iphone con il proble
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -3113,7 +3102,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -3160,10 +3148,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -3338,7 +3326,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -3413,7 +3401,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -3460,10 +3447,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -3632,7 +3619,7 @@ e anche intrd=/initr.gz  (insomma le strighe del kernel)&lt;/li&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -3707,7 +3694,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -3754,10 +3740,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -3885,7 +3871,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -3961,7 +3947,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -4008,10 +3993,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -4142,7 +4127,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 
@@ -4217,7 +4202,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -4264,10 +4248,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -4411,7 +4395,7 @@ poi riavviare firefox e avrete i vostri componenti aggiuntivi funzionanti&lt;/p&
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -4486,7 +4470,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -4533,10 +4516,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -4682,7 +4665,7 @@ in assenza di mail&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -4758,7 +4741,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -4805,10 +4787,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -5094,7 +5076,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -5169,7 +5151,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -5216,10 +5197,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -5362,7 +5343,7 @@ NB: Se nel sito ufficiale non riuscite ad accedere potete scaricare il programma
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -5437,7 +5418,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -5484,10 +5464,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -5653,7 +5633,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -5729,7 +5709,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -5776,10 +5755,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -5934,7 +5913,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -6009,7 +5988,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -6056,10 +6034,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -6224,7 +6202,7 @@ per scoprire l&amp;#8217; ipKobo andare sul menù del kobo &amp;gt; impostazioni
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -6299,7 +6277,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -6346,10 +6323,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -6546,7 +6523,7 @@ socksProxyType = socks5&lt;/em&gt;&lt;/pre&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -6622,7 +6599,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -6669,10 +6645,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -6796,7 +6772,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -6872,7 +6848,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -6919,10 +6894,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -7076,7 +7051,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -7151,7 +7126,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -7198,10 +7172,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -7374,7 +7348,7 @@ Probabilmente le impostazioni aggiuntive che creerà il programma le troverete i
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -7449,7 +7423,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -7496,10 +7469,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -7650,7 +7623,7 @@ qua inseriamo i nostri dati di login come nel sito! #FINE&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -7725,7 +7698,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -7772,10 +7744,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -7944,7 +7916,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;.wp-container-2 {display: flex;gap: 0.5em;flex-wrap: wrap;align-items: center;}.wp-container-2 &gt; * { margin: 0; }&lt;/style&gt;
@@ -7962,8 +7934,7 @@ transition: 1s ease opacity;
 	&lt;head&gt;
 		&lt;title&gt;Redirecting...&lt;/title&gt;
 		&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0;url=https://moondragon-md.github.io/&quot;&gt;
-	    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
-&lt;/head&gt;
+	&lt;/head&gt;
 	&lt;body&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;
 			window.location = &quot;https://moondragon-md.github.io/&quot;;
@@ -8041,7 +8012,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -8088,10 +8058,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -8241,7 +8211,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -8317,7 +8287,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -8364,10 +8333,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -8500,7 +8469,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -8575,7 +8544,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -8622,10 +8590,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -8788,7 +8756,7 @@ Questa è la mia prima mod per fs19, spero via piaccia!
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -8863,7 +8831,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -8910,10 +8877,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -9051,7 +9018,7 @@ Spero vi piaccia&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -9127,7 +9094,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -9174,10 +9140,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -9340,7 +9306,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -9415,7 +9381,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -9462,10 +9427,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -9607,7 +9572,7 @@ Buon divertimento!
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -9682,7 +9647,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -9729,10 +9693,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -9887,7 +9851,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -9962,7 +9926,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -10009,10 +9972,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -10167,7 +10130,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -10242,7 +10205,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -10289,10 +10251,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -10457,7 +10419,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;style&gt;.wp-container-2 {display: flex;gap: 0.5em;flex-wrap: wrap;align-items: center;}.wp-container-2 &gt; * { margin: 0; }&lt;/style&gt;
@@ -10534,7 +10496,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -10581,10 +10542,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -10728,7 +10689,7 @@ Ho fatto varie ricerche in internet, visionato foto e video. Poi ho creato da ze
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -10803,7 +10764,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -10850,10 +10810,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -11101,7 +11061,7 @@ La mappa la puoi trovare su ModHoster a questo &lt;a href=&quot;https://www.modh
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -11176,7 +11136,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -11223,10 +11182,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -11408,7 +11367,7 @@ Qui potete vedere un anteprima video: &lt;a href=&quot;https://www.dropbox.com/s
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -11483,7 +11442,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -11530,10 +11488,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -11669,7 +11627,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -11744,7 +11702,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -11791,10 +11748,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -11977,7 +11934,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -12052,7 +12009,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -12099,10 +12055,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -12260,7 +12216,7 @@ Spero ti piaccia
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -12335,7 +12291,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -12382,10 +12337,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -12571,7 +12526,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -12646,7 +12601,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -12693,10 +12647,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -12858,7 +12812,7 @@ Ho anche aggiunto al guidatore il famoso cappello italiano: la Coppola!
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -12933,7 +12887,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -12980,10 +12933,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -13115,7 +13068,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -13190,7 +13143,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -13237,10 +13189,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -13400,7 +13352,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -13476,7 +13428,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -13523,10 +13474,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -13650,7 +13601,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -13725,7 +13676,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -13772,10 +13722,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -13957,7 +13907,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -14032,7 +13982,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -14079,10 +14028,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -14226,7 +14175,7 @@ Spero vi torni utile !!!&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -14301,7 +14250,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -14348,10 +14296,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -14483,7 +14431,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -14558,7 +14506,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -14605,10 +14552,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -14753,7 +14700,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -14828,7 +14775,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -14875,10 +14821,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -15022,7 +14968,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -15097,7 +15043,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -15144,10 +15089,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -15286,7 +15231,7 @@ Semplice no?&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -15361,7 +15306,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -15408,10 +15352,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -15562,7 +15506,7 @@ Spero che apprezzerete il mio lavoro!&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -15637,7 +15581,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -15684,10 +15627,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -15850,7 +15793,7 @@ transition: 1s ease opacity;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -15925,7 +15868,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -15972,10 +15914,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -16123,7 +16065,7 @@ Salve volevo darvi un trick veloce per impostare le luci nel motore render per S
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -16198,7 +16140,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -16245,10 +16186,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -16407,7 +16348,7 @@ g:&lt;a href=&quot;https://extensions.gnome.org/extension/1287/unite/&quot; targ
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -16482,7 +16423,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -16529,10 +16469,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -16687,7 +16627,7 @@ Saluti a tutti&lt;/p&gt;
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -16762,7 +16702,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -16809,10 +16748,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -17079,7 +17018,7 @@ oppure il vostro ip del cellulare collegato in wifi)
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -17154,7 +17093,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -17201,10 +17139,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -17358,7 +17296,7 @@ NB:in queste operazioni verrà elimina nvidia-libopencl1-384, accettare i cambia
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;
@@ -17433,7 +17371,6 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 
 &lt;/script&gt; 
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../Cerca/stile2.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -17480,10 +17417,10 @@ function grande(){document.body.style.fontSize=&quot;16px&quot;;}
 		&lt;!-- Sidebar --&gt;
 		&lt;div id=&quot;sidebar&quot;&gt;
 		
-			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Search/Cerca Nel Sito: 
-				&lt;form id=&quot;sidebar-search&quot; method=&quot;get&quot; action=&quot;https://moondragon-md.github.io&quot;&gt;
-					&lt;input type=&quot;text&quot; name=&quot;s&quot; id=&quot;s&quot; class=&quot;search-input&quot; size=&quot;15&quot;&gt;
-					&lt;input type=&quot;submit&quot; value=&quot;&quot; class=&quot;search-button&quot;&gt;
+			&lt;div class=&quot;sidebar-box-blank&quot;&gt;Cerca Nel Sito: 
+				&lt;form&gt;&lt;input type=&quot;text&quot; id=&quot;searchInput&quot; class=&quot;search-input&quot; placeholder=&quot;Search...&quot;&gt;
+					&lt;ul id=&quot;suggestions&quot; class=&quot;suggestions-list&quot;&gt;&lt;/ul&gt; &lt;!-- Lista dei suggerimenti --&gt;
+					
 					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
 				&lt;/form&gt;
 			&lt;/div&gt;
@@ -17624,7 +17561,7 @@ Nonostante una scoperta da candidatura al premio Nobel, Tamburini resta un preca
 	&lt;!-- Footer --&gt;
 
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;!-- /Page --&gt;
+&lt;!-- /Page --&gt; &lt;script defer src=&quot;../Cerca/cerca.js&quot;&gt;&lt;/script&gt;
 
 
 &lt;/body&gt;

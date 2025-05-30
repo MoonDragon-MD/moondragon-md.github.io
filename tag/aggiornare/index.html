@@ -60,7 +60,6 @@ function grande(){document.body.style.fontSize="16px";}
 
 </script> 
 
-    <link rel="stylesheet" href="../../Cerca/stile2.css">
 </head>
 
 <body>
@@ -107,10 +106,10 @@ function grande(){document.body.style.fontSize="16px";}
 		<!-- Sidebar -->
 		<div id="sidebar">
 		
-			<div class="sidebar-box-blank">Search/Cerca Nel Sito: 
-				<form id="sidebar-search" method="get" action="https://moondragon-md.github.io">
-					<input type="text" name="s" id="s" class="search-input" size="15">
-					<input type="submit" value="" class="search-button">
+			<div class="sidebar-box-blank">Cerca Nel Sito: 
+				<form><input type="text" id="searchInput" class="search-input" placeholder="Search...">
+					<ul id="suggestions" class="suggestions-list"></ul> <!-- Lista dei suggerimenti -->
+					
 					<div class="clear"></div>
 				</form>
 			</div>
@@ -276,7 +275,7 @@ per scoprire l&#8217; ipKobo andare sul menù del kobo &gt; impostazioni &gt; in
 	<!-- Footer -->
 
 </div></div></div>
-<!-- /Page -->
+<!-- /Page --> <script defer src="../../Cerca/cerca.js"></script>
 
 
 </body>
